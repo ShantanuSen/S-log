@@ -9,3 +9,5 @@ Log-encoding saves storage as well as keeps roughly exact information from image
 Different camera manufacturing companies developed their own log-curve and color gamut for their products. 
 In this paper, we discuss about the S-log curve which was developed by Sony. 
 The discussion includes S-log curve types, workflow, example of output images and color gamut in brief.
+
+Full Paper link: https://ieeexplore.ieee.org/document/8939972
